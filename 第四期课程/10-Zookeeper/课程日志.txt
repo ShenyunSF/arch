@@ -1,0 +1,3 @@
+Jmeter 可以用来测试并发
+
+curator 实现分布式锁
